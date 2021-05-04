@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,Latina
-
-https://live-normal-otros-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b950272.m3u8
-
 #EXTINF:-1 ,ATV
 
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMTc1OTc4LCJzZXNzaW9uIjoiMTc3LjkxLjI1My4xOTQiLCJ3aGl0ZWxpc3QiOlsiMTc3LjkxLjI1My4xOTQiXX0sInNpZ25hdHVyZSI6ImQzMjY3OTFjNzliYjI2NDE1NDQ5YjM3OTE2ZDIxYjgxZDFlYzg1NzIifQ%3D%3D
